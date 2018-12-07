@@ -80,7 +80,7 @@ Tugas
 Jalankan aplikasi Anda menggunakan 
 	docker-compose up -d
 
-Gambar 1
+   <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i1.jpg" alt="i1"/>
 
 ---
 
@@ -92,19 +92,19 @@ Misalnya, untuk melihat detail wadah yang diluncurkan yang dapat Anda gunakan
 	
 	docker-compose ps
 
-gambar 2
+  <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i2.jpg" alt="i2"/>
 
 Untuk mengakses semua log melalui satu aliran yang Anda gunakan
 	
 	docker-compose logs
 
-gambar 3
+  <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i3.jpg" alt="i3"/>
 
 Perintah lain mengikuti pola yang sama. Temukan dengan mengetik
 
 	docker-compose
 
-Gambar 4
+  <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i4.jpg" alt="i4"/>
 
 ---
 ## Langkah 6 - Skala Docker
@@ -122,13 +122,13 @@ Skalakan jumlah kontainer web yang Anda jalankan menggunakan perintah
 	
 	docker-compose scale web=3
 	
-Gambar 5
+  <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i5.jpg" alt="i5"/>
 
 Anda dapat menskalakannya kembali menggunakan
 	
 	docker-compose scale web=1
 
-Gambar 6
+  <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i6.jpg" alt="i6"/>
 
 ---
 ## Langkah 7 - Berhenti Docker
@@ -138,13 +138,13 @@ Seperti ketika kami meluncurkan aplikasi, untuk menghentikan satu set kontainer 
 	
 	docker-compose stop
 
-Gambar 7
+  <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i7.jpg" alt="i7"/>
 
 Untuk menghapus semua kontainer, gunakan perintah
 
 	docker-compose rm
 
-Gambar 8 
+  <img src="https://github.com/lilyastri/tct-docker2-lily/blob/master/i8.jpg" alt="i8"/>
 
 ---
 
