@@ -1,7 +1,7 @@
 # Orchestration Menggunakan Docker Compose
 ---
 
-##Langkah 1 - Mendefinisikan Kontainer Pertama
+## Langkah 1 - Mendefinisikan Kontainer Pertama
 ---
 
 ocker Compose didasarkan pada file docker-compose.yml. File ini mendefinisikan semua kontainer dan pengaturan yang Anda perlukan untuk meluncurkan kumpulan kluster Anda. Properti memetakan ke bagaimana Anda menggunakan perintah menjalankan docker, namun sekarang disimpan dalam kontrol sumber dan dibagikan bersama dengan kode Anda.
